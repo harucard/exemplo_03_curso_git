@@ -8,4 +8,8 @@ Capitulo 02
 Capitulo 03
 Escrendo cap 03
 Referencias
+ref 01
+ref 02
+ref 03
+ref 04
 ...
